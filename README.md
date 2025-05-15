@@ -35,7 +35,7 @@ A responsive blog preview card component built with HTML and CSS, featuring hove
 
 ## 📬 Contact
 
-[View Live Demo] https://github.com/MahmouAli-95/Blog-preview-card.git
+[View Live Demo] https://github.com/MahmoudAli-95/Blog-preview-card.git
 
 ## License
 
